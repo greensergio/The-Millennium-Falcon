@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+  margin: 0;
+  padding: 1rem 2rem;
+  font-family: "Titillium Web", sans-serif;
+}
+
+.header {
+  width: 50%;
+  border-bottom: 1px solid white;
+}
+.header h1 {
+  display: flex;
+  flex-direction: column;
+  font-size: 4.5rem;
+  color: white;
+  margin: 0;
+}
+.header h1 span {
+  font-size: 13rem;
+}/*# sourceMappingURL=index.css.map */
